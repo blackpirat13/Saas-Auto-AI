@@ -1,0 +1,50 @@
+{
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "forgotPassword": "Forgot your password?",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "signUp": "Sign Up",
+    "signIn": "Sign In"
+  },
+  "nav": {
+    "features": "Features",
+    "contact": "Contact",
+    "download": "Download",
+    "dashboard": "Dashboard"
+  },
+  "hero": {
+    "title": "SaaS Automation Platform",
+    "subtitle": "Streamline your business operations with AI-powered automation and blockchain payments",
+    "cta": {
+      "download": "Download App",
+      "learnMore": "Learn More"
+    }
+  },
+  "features": {
+    "title": "Powerful Features",
+    "subtitle": "Everything you need to automate your business",
+    "items": {
+      "ai": {
+        "title": "AI Modules",
+        "description": "Leverage powerful AI models for automation and decision-making"
+      },
+      "crypto": {
+        "title": "Crypto Payments",
+        "description": "Secure blockchain-based payment processing"
+      },
+      "assistant": {
+        "title": "Virtual Assistant",
+        "description": "24/7 AI-powered support for your business needs"
+      },
+      "analytics": {
+        "title": "Analytics",
+        "description": "Real-time insights and resource optimization"
+      }
+    }
+  }
+}

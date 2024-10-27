@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.page {
+  background: linear-gradient(180deg, #000000 0%, #1a1a1a 100%);
+}
+
+.action-bar {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.btn-primary {
+  background: linear-gradient(135deg, #00a3ff 0%, #0057ff 100%);
+  color: white;
+  font-weight: bold;
+  border-radius: 8;
+  padding: 12;
+}
+
+.card {
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 12;
+  margin: 8;
+  padding: 16;
+}
+
+.text-primary {
+  color: #00a3ff;
+}
+
+.text-light {
+  color: #ffffff;
+}

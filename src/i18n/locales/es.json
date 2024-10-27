@@ -1,0 +1,50 @@
+{
+  "auth": {
+    "login": "Iniciar Sesión",
+    "register": "Registrarse",
+    "email": "Correo Electrónico",
+    "password": "Contraseña",
+    "confirmPassword": "Confirmar Contraseña",
+    "forgotPassword": "¿Olvidaste tu contraseña?",
+    "noAccount": "¿No tienes una cuenta?",
+    "hasAccount": "¿Ya tienes una cuenta?",
+    "signUp": "Crear Cuenta",
+    "signIn": "Ingresar"
+  },
+  "nav": {
+    "features": "Características",
+    "contact": "Contacto",
+    "download": "Descargar",
+    "dashboard": "Panel de Control"
+  },
+  "hero": {
+    "title": "Plataforma de Automatización SaaS",
+    "subtitle": "Optimiza tus operaciones empresariales con automatización impulsada por IA y pagos blockchain",
+    "cta": {
+      "download": "Descargar App",
+      "learnMore": "Más Información"
+    }
+  },
+  "features": {
+    "title": "Características Poderosas",
+    "subtitle": "Todo lo que necesitas para automatizar tu negocio",
+    "items": {
+      "ai": {
+        "title": "Módulos de IA",
+        "description": "Aprovecha modelos de IA potentes para automatización y toma de decisiones"
+      },
+      "crypto": {
+        "title": "Pagos Crypto",
+        "description": "Procesamiento de pagos seguro basado en blockchain"
+      },
+      "assistant": {
+        "title": "Asistente Virtual",
+        "description": "Soporte 24/7 impulsado por IA para tus necesidades empresariales"
+      },
+      "analytics": {
+        "title": "Analítica",
+        "description": "Insights en tiempo real y optimización de recursos"
+      }
+    }
+  }
+}
